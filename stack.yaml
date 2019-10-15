@@ -1,0 +1,10 @@
+resolver: lts-14.8
+packages:
+- http2-grpc-types
+- http2-grpc-proto-lens
+- http2-grpc-proto3-wire
+- warp-grpc
+- http2-client-grpc
+extra-deps:
+- proto3-wire-1.0.0
+- http2-client-0.9.0.0
